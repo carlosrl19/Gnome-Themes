@@ -1,2 +1,2 @@
 # Gnome-Themes
-Gnome desktop themes that I like them.  🌜✨
+Gnome desktop themes!  🌜✨
